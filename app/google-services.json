@@ -1,39 +1,39 @@
 {
   "project_info": {
-    "project_number": "871381559908",
-    "project_id": "instaclone-ff58f",
-    "storage_bucket": "instaclone-ff58f.appspot.com"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:871381559908:android:5af5cdd7b7b96bda76cd71",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.tolganacar.instaclone"
+          "package_name": ""
         }
       },
       "oauth_client": [
         {
-          "client_id": "871381559908-drravf8qavaclir6r7bk9mekbscocupa.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "",
+          "client_type": 
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBq1AYPcP8Ddj1jcn9pz0wQmqKNcZD2wzY"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "871381559908-drravf8qavaclir6r7bk9mekbscocupa.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "",
+              "client_type": 
             }
           ]
         }
       }
     }
   ],
-  "configuration_version": "1"
+  "configuration_version": ""
 }
